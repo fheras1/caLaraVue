@@ -11,7 +11,7 @@ window.Vue = require('vue');
 
 import Antd from 'ant-design-vue'
 window.Vue.use(Antd);
-import 'ant-design-vue/dist/antd.css'
+import 'ant-design-vue/dist/antd.css';
 /**
  * The following block of code may be used to automatically register your
  * Vue components. It will recursively scan this directory for the Vue
